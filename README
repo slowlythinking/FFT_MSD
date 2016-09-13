@@ -1,0 +1,11 @@
+其中以UseCase打头的文件是生成的MSD数，用作FFT算法输入的；
+
+MSDAdder2文件为主要的模拟实验的代码，其中包含三步式MSD加法实现FFT、电子方法实现FFT以及MSD数与十进制数的转化代码；
+
+DFTlearn文件为电子方法实现FFT算法的代码，这部分只是一个学习实例，已经被MSDAdder2文件包含；
+
+CreatUseCase文件为生成随机MSD输入数据的代码。
+
+以上代码文件使用gcc编译即可，命令如：g++ -o MSDAdder MSDAdder2.cpp
+
+友谊或者其他三值光团队成员，Have fun and Good luck!
