@@ -8,4 +8,4 @@ CreatUseCase文件为生成随机MSD输入数据的代码。
 
 以上代码文件使用gcc编译即可，命令如：g++ -o MSDAdder MSDAdder2.cpp
 
-友谊或者其他三值光团队成员，Have fun and good luck!
+三值光团队成员们，Have fun and good luck!
